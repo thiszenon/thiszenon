@@ -1,39 +1,54 @@
 # Hi 👋 I'm Jonathan Kabonga
-### Full Stack Developer | Java & Python Enthusiast | Problem Solver
-📍 **Based in** Nîmes, France  
-📧 **Contact:** [jonathan.nyata@gmail.com](mailto:jonathan.nyata@gmail.com)  
-🧠 **Currently Studying:** CLRS Algorithm Book  
-💻 **Daily Practice:** [LeetCode Profile](https://leetcode.com/yourusername/)  
+### BackEnd Developer | Algorithm | Artificial Inteligency Enthusiast
+
+
+  
+📍 **Nîmes, France**  
+📧 **jonathan.nyata@gmail.com**  
+📚 **Studying:** CLRS + LeetCode  
+🐍 **Python Focus:** Algorithms & Automation
+
 
 ---
 
-### 🛠 Technical Skills
+### 🛠️ Tech Stack
 
-#### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot">
+#### **Languages & Frameworks**
+<p aligne="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" title="Java" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" title="Spring" alt="Spring"/>
 </p>
 
-#### Algorithm & Problem Solving
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
-  <img src="https://img.shields.io/badge/CLRS-FFA500?style=for-the-badge&logo=bookstack&logoColor=white" alt="CLRS">
-  <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge&logo=python&logoColor=white" alt="Data Structures">
+
+#### **Problem Solving**
+<p aligne="center">
+
+  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="40" title="LeetCode" alt="LeetCode"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="40" title="CLRS" alt="CLRS"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/423/423092.png" width="40" title="Algorithms" alt="Algorithms"/>
 </p>
 
-#### Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+
+#### **Databases & Tools**
+<p aligne="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" title="Git" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" title="Docker" alt="Docker"/>
 </p>
 
 ---
 
-### 📚 Current Learning Path
+### 📊 Coding Activity
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/zenon26?theme=dark&font=baloo&ext=heatmap)
 
 ```python
-def learning_goals():
-    python = ["Pandas", "NumPy", "Flask"]
-    algorithms = ["DP", "Graph Theory", "Divide & Conquer (CLRS Ch.4)"]
-    return f"Focus: {python} + {algorithms}"
+def daily_routine():
+    leetcode_solved = True
+    clrs_chapter = "Divide & Conquer"
+    return f"Today: {'✅' if leetcode_solved else '❌'} | Studying: {clrs_chapter}"
