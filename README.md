@@ -1,12 +1,12 @@
 # Hi 👋 I'm Jonathan Kabonga
-### BackEnd Developer | Algorithm | Artificial Inteligency Enthusiast
+### Etudiant en IA et Big Data |BackEnd Developer (Java/Spring) | Algorithmique | Artificial Inteligency Enthusiast
 
 
   
-📍 **Nîmes, France**  
+📍 **Lyon et Périphérie , France**  
 📧 **jonathan.nyata@gmail.com**  
-📚 **Studying:** CLRS + LeetCode  
-🐍 **Python Focus:** Algorithms & Automation
+📚 **Studying:** DeepLearning avec FastAI | CLRS + LeetCode  
+🐍 **Python Focus:** Algorithmiques & Automatisation
 
 
 ---
