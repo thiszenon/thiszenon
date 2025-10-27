@@ -5,7 +5,7 @@
   
 📍 **Lyon et Périphérie , France**  
 📧 **jonathan.nyata@gmail.com**  
-📚 **Studying:** DeepLearning avec FastAI | CLRS + LeetCode  
+📚 **Studying:** LLMs with FastAI | CLRS + LeetCode  
 🐍 **Python Focus:** Algorithmiques & Automatisation
 
 
@@ -50,5 +50,5 @@
 ```python
 def daily_routine():
     leetcode_solved = True
-    clrs_chapter = "Divide & Conquer"
+    clrs_chapter = "Introduction to LLMs with Python "
     return f"Today: {'✅' if leetcode_solved else '❌'} | Studying: {clrs_chapter}"
