@@ -43,7 +43,7 @@ NLP & IA Générative - FastAPI - Machine Learning
 - **Data Structures**: LeetCode & CLRS
 - **Mathematique**: La théorie de graphes
 
-#### **Activité de Code **
+### Activité de Code
 ![LeetCode Stats](https://leetcard.jacoblin.cool/zenon26?theme=dark&font=baloo&ext=heatmap)
 
 <p aligne="center">
