@@ -3,11 +3,11 @@
 
 
   
-📍 **Lyon et île-de-France**  
-📧 **jonathan.nyata@gmail.com | j.kabonganyata@myskolae.fr**
-🎓 **ESGI Lyon - Master en Intelligence Artificielle & Big Data**
-📚 **Studying:** LLMs with FastAI | CLRS + LeetCode  
-🐍 **Python Focus:** Algorithmiques & Automatisation
+- **Lyon et île-de-France**  
+- **jonathan.nyata@gmail.com | j.kabonganyata@myskolae.fr**
+- **ESGI Lyon - Master en Intelligence Artificielle & Big Data**
+- **Studying:** LLMs with FastAI | CLRS + LeetCode  
+- **Python Focus:** Algorithmiques & Automatisation
 
 ---
 ### Projets en Cours
